@@ -2,9 +2,10 @@
 
 A deterministic, seed-based 2D dungeon crawler written in Rust featuring procedural generation, entity management, and AI pathfinding.
 
-## Quick Start
+## Start
 
 ```bash
+cargo build
 cargo run
 ```
 Enter a seed at the prompt to generate the dungeon.
